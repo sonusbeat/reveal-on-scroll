@@ -3,3 +3,6 @@ This is an awesome JS Libray which you can combine with css transform, and trans
 
 ## Download Scroll Out Javascript Library
 https://github.com/scroll-out/scroll-out
+
+## Check this project live
+https://sonusbeat.github.io/reveal-on-scroll/
